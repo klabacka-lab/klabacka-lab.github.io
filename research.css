@@ -1,0 +1,14 @@
+hr {
+  height:5px;
+  border-width:0;
+  background-color:#00A4BD;
+}
+
+hr.side {
+    border:0;
+    margin:0;
+    width:100%;
+    height:2px;
+    background:yellow;
+}   
+
